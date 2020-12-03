@@ -8,7 +8,7 @@ Webcam
 
 # Building on OS X
 
-These instructions are for OS X 10.9 "Mavericks".
+These instructions are for OS X 10.9 "Mavericks". But works with Ubuntu 16.02 +
 
 * Requirements: OpenCV2, Cuda 8.x with NVIDIA Performance Primitives (NPP) lib.
 
